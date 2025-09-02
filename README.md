@@ -86,7 +86,10 @@ Indicates whether an order was **Returned** (`Yes/No`).
 ---
 
 ## 📷 Dashboard Preview
-*(Add screenshots here from your dashboard, e.g., `screenshots/dashboard_overview.png`)*  
+<img width="969" height="658" alt="mainCapture" src="https://github.com/user-attachments/assets/dcf6fb35-475b-41b9-bd44-d40ad0348ea3" />
+<img width="962" height="416" alt="m2" src="https://github.com/user-attachments/assets/e623f22b-c1dc-43d0-b768-5dcd3c240554" />
+<img width="971" height="277" alt="Capture" src="https://github.com/user-attachments/assets/1b5d8d4e-4395-415a-83ea-2f7cd203f8e6" />
+<img width="314" height="195" alt="Capture1" src="https://github.com/user-attachments/assets/77f361af-445f-4437-a541-2d8471c51ed4" />  
 
 ---
 
@@ -131,5 +134,7 @@ Indicates whether an order was **Returned** (`Yes/No`).
 🌐 [GitHub](https://github.com/SyedSajid91) | 🔗 [LinkedIn](https://www.linkedin.com/)  
 
 ---
+
+
 
 🔥 *If you like this project, don’t forget to ⭐ star the repo!*  
