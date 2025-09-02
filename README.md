@@ -13,12 +13,24 @@ The dashboard provides **interactive insights** into Sales, Profit, Quantity, an
 ## 🎯 Business Objective
 Walmart leadership needs a dashboard to **monitor business performance** and **identify growth opportunities**. The key requirements were:
 
-1. Track **important KPIs** (Sales, Profit, Orders, Quantity, Profit Margin).  
-2. Analyze **Segment, Category, and Market performance**.  
-3. Identify **Top 5 & Bottom 5 performers** in Sales, Profit, and Orders.  
-4. Display **Top 10 Countries by Sales** on a World Map.  
-5. Highlight **Top Sub-Categories** and their contribution to total Sales.  
-6. Show **Market Share of Regions** using visual breakdowns.  
+1. Track **important KPIs** (Sales, Profit, Orders, Quantity, Profit Margin).
+   <img width="455" height="137" alt="image" src="https://github.com/user-attachments/assets/2f7989d5-fe7c-4d43-9d6f-6ade81fafd4f" />
+ 
+2. Analyze **Segment, Category, and Market performance**.
+   <img width="543" height="186" alt="image" src="https://github.com/user-attachments/assets/845d5358-2405-48ab-982a-ac8d65b2259a" />
+  
+3. Identify **Top 5 & Bottom 5 performers** in Sales, Profit, and Orders.
+   <img width="380" height="235" alt="image" src="https://github.com/user-attachments/assets/3bbcbe1e-299d-4086-97b7-1932fa6f5ea0" />
+ 
+4. Display **Top 10 Countries by Sales** on a World Map.
+<img width="133" height="188" alt="image" src="https://github.com/user-attachments/assets/d7057d8b-1957-4539-afc0-2fad4783d40f" />
+  
+5. Highlight **Top Sub-Categories** and their contribution to total Sales.
+   <img width="191" height="233" alt="image" src="https://github.com/user-attachments/assets/8b0746cf-f21c-4331-95d9-1f287d05cc97" />
+   <img width="286" height="225" alt="image" src="https://github.com/user-attachments/assets/bf0f4581-bb86-4897-84f8-c084e79f855f" />
+
+6. Show **Market Share of Regions** using visual breakdowns.
+   <img width="680" height="163" alt="image" src="https://github.com/user-attachments/assets/658016fd-0e4c-4e30-83a6-82d369466eef" />
 
 ---
 
